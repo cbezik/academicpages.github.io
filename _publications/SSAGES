@@ -1,7 +1,7 @@
 ---
 title: "SSAGES: Software Suite for Advanced General Ensemble Simulations"
 collection: publications
-permalink: /publication/SSAGES
+permalink: /publication/ssages
 excerpt: 'This paper introduces a free energy sampling package implemented in C++ which integrates with any molecular dynamics engine to provide easy access to advanced methods to any user familiar with molecular simulations.  More information is available at http://miccomcodes.org/.'
 date: 2018-01-28
 venue: 'The Journal of Chemical Physics'
