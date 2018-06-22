@@ -22,9 +22,9 @@ Research experience
   * Performed Monte Carlo simulations in combination with advanced free energy sampling techniques
 to understand self-assembly of block copolymers, especially in contact hole geometries.
 Elucidated pathways of defect formation and annihilation.
- * Collaborated with experimental partners at IMEC to design combined theoretical and experimental
+  * Collaborated with experimental partners at IMEC to design combined theoretical and experimental
 studies.
- * Participated in the development of the Software Suite for Advanced General Ensemble Simulations
+  * Participated in the development of the Software Suite for Advanced General Ensemble Simulations
 (SSAGES), collaborating on the addition of string methods.
 
   * Supervisor: Professor Juan de Pablo
