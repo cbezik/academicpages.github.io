@@ -8,7 +8,7 @@ venue: 'The Journal of Chemical Physics'
 paperurl: 'https://cbezik.github.io/codybezik.github.io/files/sidky.pdf'
 citation: 'Sidky, H., Colón, Y. J., Helfferich, J., Sikora, B. J., Bezik, C., Chu, W., … de Pablo, J. J. (2018). SSAGES: Software Suite for Advanced General Ensemble Simulations. The Journal of Chemical Physics, 148(4), 044104. https://doi.org/10.1063/1.5008853'
 ---
-This paper introduces a free energy sampling package implemented in C++ which integrates with any molecular dynamics engine to provide easy access to advanced methods to any user familiar with molecular simulations.  More information is available at [http://miccomcodes.org/].
+This paper introduces a free energy sampling package implemented in C++ which integrates with any molecular dynamics engine to provide easy access to advanced methods to any user familiar with molecular simulations.  More information is available at [the MICCOM codes sites](http://miccomcodes.org).
 
 [Download paper here](https://cbezik.github.io/codybezik.github.io/files/sidky.pdf)
 
