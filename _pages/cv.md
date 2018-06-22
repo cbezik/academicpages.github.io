@@ -78,4 +78,4 @@ Teaching
   
 Full CV
 ======
-* Add link to full CV
+You can find the full, updated version of my CV [here](http://cbezik.github.io/codybezik.github.io/files/cody_bezik_resume.pdf) 
