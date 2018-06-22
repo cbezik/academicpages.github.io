@@ -11,30 +11,52 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Chemical Engineering, Case Western Reserve University, 2015
+* M.S. in Chemical Engineering, Case Western Reserve University, 2015
+* Ph.D in Molecular Engineering, University of Chicago, 2020 (expected)
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2015-present: Graduate Research Assistant
+  * University of Chicago
+  * Performed Monte Carlo simulations in combination with advanced free energy sampling techniques
+to understand self-assembly of block copolymers, especially in contact hole geometries.
+Elucidated pathways of defect formation and annihilation.
+ * Collaborated with experimental partners at IMEC to design combined theoretical and experimental
+studies.
+ * Participated in the development of the Software Suite for Advanced General Ensemble Simulations
+(SSAGES), collaborating on the addition of string methods.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Juan de Pablo
+
+* 2012-2015: Research Assistant
+  * Case Western Reserve University
+  * Prepared and characterized poly-(high internal phase emulsion) foams. Developed understanding
+of structure-property relationships, and their variance with composition of the emulsion
+precursor.
+  * Collaborated with industrial partners at Procter & Gamble to develop new equipment and experimental
+stragies.
+  * Provided critical advancement of synthesis of poly-(high internal phase emulsion) fibers, a
+novel preparation of the material (U.S. Patent No. 9574058)
+  * Supervisor: Professor Ice Manas-Zloczower, Professor Donald Feke
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming:
+  * C/C++
+  * Python
+  * Parallel computing with MPI
+* Web design:
+  * HTML, CSS
+* Molecular dynamics:
+  * LAMMPS
+  * Gromacs
+* Scientific computing software:
+  * Paraview
+  * COMSOL
+* Experiments:
+  * SEM, Optical Microscopy, ARES Rheometer, Thermogravimetric
+Analysis, MTS Universal Testing System, BET Analysis.
 
 Publications
 ======
@@ -54,6 +76,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Full CV
 ======
-* Currently signed in to 43 different slack teams
+* Add link to full CV
