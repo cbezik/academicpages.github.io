@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "SSAGES: Software Suite for Advanced General Ensemble Simulations"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/SSAGES
+excerpt: 'This paper introduces a free energy sampling package implemented in C++ which integrates with any molecular dynamics engine to provide easy access to advanced methods to any user familiar with molecular simulations.  More information is available at http://miccomcodes.org/.'
+date: 2018-01-28
+venue: 'The Journal of Chemical Physics'
+paperurl: 'https://cbezik.github.io/codybezik.github.io/talks/Sidky et al. - 2018 - SSAGES Software Suite for Advanced General Ensemble Simulations.pdf'
+citation: ''
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper introduces a free energy sampling package implemented in C++ which integrates with any molecular dynamics engine to provide easy access to advanced methods to any user familiar with molecular simulations.  More information is available at http://miccomcodes.org/.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://cbezik.github.io/codybezik.github.io/talks/Sidky et al. - 2018 - SSAGES Software Suite for Advanced General Ensemble Simulations.pdf)
