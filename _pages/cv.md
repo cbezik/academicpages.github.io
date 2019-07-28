@@ -19,6 +19,10 @@ Research experience
 ======
 * 2015-present: Graduate Research Assistant
   * University of Chicago
+  * Furthered study fluctuation-stabilized mesophases formed from nonlinear block copolymers and probed
+  the dynamical properties of the resulting networked structures.
+  * Studied unique defective structures formed in block copolymer self assembly via simulation previously only
+  known to occur experimentally.
   * Performed Monte Carlo simulations in combination with advanced free energy sampling techniques
 to understand self-assembly of block copolymers, especially in contact hole geometries.
 Elucidated pathways of defect formation and annihilation.
@@ -51,6 +55,7 @@ Skills
 * Molecular dynamics:
   * LAMMPS
   * Gromacs
+  * HOOMD-blue
 * Scientific computing software:
   * Paraview
   * COMSOL
