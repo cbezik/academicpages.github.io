@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Chemical Engineering, Case Western Reserve University, 2015
 * M.S. in Chemical Engineering, Case Western Reserve University, 2015
-* Ph.D in Molecular Engineering, University of Chicago, 2021 (expected)
+* PhD in Molecular Engineering, University of Chicago, 2021 (expected)
 
 Research experience
 ======
