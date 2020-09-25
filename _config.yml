@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Cody Bezik"
 title_separator          : "-"
 name                     : &name "Cody Bezik"
-description              : &description "Ph.D Student at the University of Chicago"
+description              : &description "PhD Student at the University of Chicago"
 url                      : https://cbezik.github.io/codybezik.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cbezik/codybezik.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Cody Bezik"
   avatar           : "cbezikprofile.jpg"
-  bio              : "Graduate student in molecular engineering at the University of Chicago"
+  bio              : "PhD Candidate in Molecular Engineering at the University of Chicago"
   location         : "Chicago, IL"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=u9tf8tcAAAAJ&hl=en"
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : " https://www.linkedin.com/in/cody-bezik-43b96658/"
   orcid            : " https://orcid.org/0000-0002-1940-4895"
   pinterest        :
   soundcloud       :
