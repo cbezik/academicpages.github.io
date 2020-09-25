@@ -13,13 +13,13 @@ Education
 ======
 * B.S. in Chemical Engineering, Case Western Reserve University, 2015
 * M.S. in Chemical Engineering, Case Western Reserve University, 2015
-* Ph.D in Molecular Engineering, University of Chicago, 2020 (expected)
+* Ph.D in Molecular Engineering, University of Chicago, 2021 (expected)
 
 Research experience
 ======
 * 2015-present: Graduate Research Assistant
   * University of Chicago
-  * Furthered study fluctuation-stabilized mesophases formed from nonlinear block copolymers and probed
+  * Furthered study of fluctuation-stabilized mesophases formed from nonlinear block copolymers and probed
   the dynamical properties of the resulting networked structures.
   * Studied unique defective structures formed in block copolymer self assembly via simulation previously only
   known to occur experimentally.
